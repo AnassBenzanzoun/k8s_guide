@@ -1,7 +1,7 @@
 ## kubernetes
 **requirements**: 
 - [kubectl](https://kubernetes.io/docs/tasks/tools/)
-- [minikube](https://minikube.sigs.k8s.io/docs/start/)
+- [minikube](https://minikube.sigs.k8s.io/docs/start/) or [k3s](https://docs.k3s.io/installation)
 
 after you run the **minikube start** you can procede with the first command
 you can also use: 
