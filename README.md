@@ -1,4 +1,14 @@
-## k8s
+## kubernetes
+**requirements**: 
+- [kubectl](https://kubernetes.io/docs/tasks/tools/)
+- [minikube](https://minikube.sigs.k8s.io/docs/start/)
+
+after you run the **minikube start** you can procede with the first command
+you can also use: 
+- gke
+- eks 
+- aks
+
 ```bash
 kubectl run (name) --image=(image from dockerhub or other registry)
  ```
